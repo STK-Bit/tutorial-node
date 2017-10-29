@@ -1,0 +1,1 @@
+Example project for [Sharing NodeJS component using Bit tutorial](https://github.com/teambit/docs/blob/master/node-tutorial.md)
