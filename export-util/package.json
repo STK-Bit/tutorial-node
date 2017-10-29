@@ -1,0 +1,19 @@
+{
+  "name": "export-util",
+  "version": "1.0.0",
+  "description": "example project for Bit tutorial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
